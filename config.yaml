@@ -1,0 +1,31 @@
+cookie:
+  expiry_days: 30
+  key: t15m
+  name: swiss
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$Hu89qojxwu9wN3JKs2M58./KieupwBsfUeMV3Stia62IgorBb/rlm
+    kareh:
+      email: jackline.maina@azubiafrica.org
+      logged_in: false
+      name: Jackilne Wangari Maina
+      password: $2b$12$UGHaV/Cz/EnB7Qg/7HBY4OHCUcUjL8mmH8BiwHi2BW.mRNV0rBo0G
+    nimoro:
+      email: nfayem.imoro@azubiafrica.org
+      logged_in: false
+      name: Nfayem Imoro
+      password: $2b$12$57ElBZ2mr.W9uXSKgLZqG..cfhw/ZSt2AZPzd4toZ5CFsb9wPbqwi
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$2mS.fITRA9SZeK/V8XujnO67R6ou00Q9vxfxEeo9XYNlTgt8usv5W
+pre-authorized:
+  emails:
+  - melsby@gmail.com
